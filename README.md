@@ -40,10 +40,15 @@ link to marketplace : https://www.clicshopping.org/forum/files/file/159-apps-pay
  All informations about the ClicShopping
 
 Community : https://www.clicshopping.org
+
 Software : https://github.com/ClicShopping
+
 Official add on : https://github.com/ClicShoppingOfficialModulesV3
+
 Community add on : https://github.com/ClicShoppingV3Community
+
 trademark License info : https://www.clicshopping.org/forum/trademark/
+
 
 ![image](https://github.com/ClicShoppingOfficialModulesV3/apps_payment_authorizenet/blob/master/ModuleInfosJson/image1.png)
 
