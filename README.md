@@ -1,4 +1,4 @@
-# apps_payment_square
+# apps_payment_authorizenet
 
 The Advanced Integration Method (AIM) is recommended connection method and offers the most secure and flexible integration.
 AIM allows merchants to host their own secure payment form and send transactions to the payment gateway using an end-to-end secure sockets layer (SSL) connection.
@@ -45,6 +45,6 @@ Official add on : https://github.com/ClicShoppingOfficialModulesV3
 Community add on : https://github.com/ClicShoppingV3Community
 trademark License info : https://www.clicshopping.org/forum/trademark/
 
-![image](https://github.com/ClicShoppingOfficialModulesV3/AuthorizeNet/blob/master/ModuleInfosJson/image.png)
+![image](https://github.com/ClicShoppingOfficialModulesV3/apps_payment_authorizenet/blob/master/ModuleInfosJson/image1.png)
 
 
