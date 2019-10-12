@@ -15,6 +15,7 @@ AIM allows merchants to host their own secure payment form and send transactions
 https://www.autorizenet.com
 
 Important Note :
+You must have composer installed on your server 
 You must have an account to AuthorizeNet.
 You site must have a valid ssl certificate
 A help section is including inside the apps
