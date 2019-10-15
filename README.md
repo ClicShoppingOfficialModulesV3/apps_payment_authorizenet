@@ -30,6 +30,7 @@ http://monsite/myAdmin/index.php?A&Payment\AuthorizeNet
 Activate the module in Payment
 Copy the apps_payment_authorizenet.json into ClicShopping/Work/Cache/Github (manual installation)
 
+Use composer with auto instalation else composer require ('authorizenet/authorizenet');  in your shop directory in your terminal
 
 
 See Marketplace for all informations
