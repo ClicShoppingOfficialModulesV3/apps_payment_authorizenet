@@ -1,0 +1,1 @@
+text_authorizenet_manual_account = Compte AuthorizeNet

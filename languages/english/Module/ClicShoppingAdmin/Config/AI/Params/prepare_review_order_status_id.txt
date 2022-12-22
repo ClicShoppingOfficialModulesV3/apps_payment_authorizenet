@@ -1,0 +1,2 @@
+cfg_authorizenet_review_order_status_id_title = Review Order Status
+cfg_authorizenet_review_order_status_id_desc = Set the status of orders flagged as being under review to this value

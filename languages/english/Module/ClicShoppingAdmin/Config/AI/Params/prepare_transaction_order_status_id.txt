@@ -1,0 +1,2 @@
+cfg_authorizenet_prepare_transaction_order_status_id_title = Transaction Order Status
+cfg_authorizenet_prepare_transaction_order_status_id_desc = Include transaction information in this order status level

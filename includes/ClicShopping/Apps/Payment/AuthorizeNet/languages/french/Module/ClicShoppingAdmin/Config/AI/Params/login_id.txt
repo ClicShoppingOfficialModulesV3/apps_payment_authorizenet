@@ -1,0 +1,2 @@
+cfg_authorizenet_login_id_title =  login ID
+cfg_authorizenet_login_id_desc = Login ID utilisé pour vous connecté à Authorize.net

@@ -1,0 +1,4 @@
+cfg_authorizenet_server_title = Production or Sandbox
+cfg_authorizenet_server_description = Sélectionner Live pour mettre en Production le module de paiement
+cfg_authorizenet_server_live = Live
+cfg_authorizenet_server_test = Test

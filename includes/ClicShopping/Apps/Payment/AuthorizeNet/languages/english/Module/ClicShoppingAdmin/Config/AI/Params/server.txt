@@ -1,0 +1,5 @@
+cfg_authorizenet_server_title = Server
+cfg_authorizenet_server_description = Perform transactions on the live or test server. The test server should only be used by developers with Authorize.net test accounts
+
+cfg_authorizenet_server_live = Live
+cfg_authorizenet_server_test = Test

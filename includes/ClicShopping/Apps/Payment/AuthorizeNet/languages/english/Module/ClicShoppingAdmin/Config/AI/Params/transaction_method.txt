@@ -1,0 +1,5 @@
+cfg_authorizenet_transaction_method_title = Transaction method
+cfg_authorizenet_transaction_method_description = he processing method to use for each transaction
+
+cfg_authorizenet_transaction_method_authorization = Authorization
+cfg_authorizenet_transaction_method_capture = Capture

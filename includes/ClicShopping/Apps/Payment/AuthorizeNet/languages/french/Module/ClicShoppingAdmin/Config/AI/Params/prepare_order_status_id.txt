@@ -1,0 +1,2 @@
+cfg_authorizenet_prepare_order_status_id_title = Statut de commande
+cfg_authorizenet_prepare_order_status_id_desc = Veuillez sélectionner un statut par défaut

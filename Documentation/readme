@@ -1,0 +1,14 @@
+https://sandbox.authorize.net/
+login : ClicShopping833
+passw : -ZymgRZS4:_w5iC
+
+login_id = 8u85LJ8ghR5
+transaction_key = 2838j6T535pXGcth
+
+secret question : Simon
+signature : EABB8F73AC14452C8DB205F2B3844876F8B3122689573D302C2550C9015E890919820E0AFDF4694D7D2544E55A1CF308B4127446FA23FC8D3AABABF6D1522947
+peugeot
+
+
+test card : 5424000000000015
+https://developer.authorize.net/hello_world/testing_guide/erreurs

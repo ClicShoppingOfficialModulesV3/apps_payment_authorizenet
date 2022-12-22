@@ -1,0 +1,4 @@
+cfg_authorizenet_status_debug_title = Debug E-Mail Address
+cfg_authorizenet_status_debug_description = All parameters of an invalid transaction will be sent to this email address
+cfg_authorizenet_status_debug_true = True
+cfg_authorizenet_status_debug_false = False

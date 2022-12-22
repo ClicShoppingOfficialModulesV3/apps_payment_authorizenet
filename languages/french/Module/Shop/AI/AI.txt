@@ -1,0 +1,10 @@
+module_ai_title = Paiement par AuthorizeNet CC AIM
+module_ai_title = AuthorizeNet CC AIM
+module_ai_short_title = AuthorizeNet CC AIM
+module_ai_public_title = AuthorizeNet
+
+text_card_owner_firstname = Prénom
+text_card_owner_lastname = Nom
+text_card_number = Numéro de carte de crédit
+text_card_expires = Date expiration
+text_card_cvv = CVV (3 numéros au dos de votre carte)

@@ -1,0 +1,7 @@
+module_ai_title = AuthorizeNet AIM
+module_ai_short_title = AuthorizeNet AIM
+module_ai_public_title = AuthorizeNet AIM
+
+cfg_authorizenet_prepare_order_status_id_default = -- Store Default Order Status --
+cfg_authorizenet_review_order_statut_id_default = -- Select the default status --
+cfg_authorizenet_prepare_transaction_order_status_id_default = -- Store Default Order Status --

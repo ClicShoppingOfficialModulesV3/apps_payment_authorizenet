@@ -1,0 +1,31 @@
+heading_title = AuthorizeNet AIM
+module_authorizenet_title = AuthorizeNet AIM
+module_authorizenet_short_title = AuthorizeNet AIM
+
+text_authorizenet =  AuthorizeNet
+text_configure =  Configure App Module
+
+text_intro = This app allow you to include a new payment on your shop. <br /><br />
+
+text_intro_ai =  his app allow you to include a new payment on your shop. <br /><br />
+
+module_authorizenet_introduction = The install process create the database settings for this module and the access menu
+
+button_sort_order = Sort Order
+button_install_title = Install
+button_configure = Configure
+button_save = Save
+button_dialog_uninstall =  Uninstall
+button_uninstall =  Uninstall
+button_cancel = Cancel
+button_delete = Delete
+button_log = Log
+
+dialog_uninstall_title = Uninstall
+dialog_uninstall_body = Do you want to install this App ?
+dialog_uninstall_title = Uninstall Module?
+dialog_uninstall_body = Are you sure you want to uninstall this module?
+
+alert_module_install_success = Module has been successfully installed.
+alert_module_uninstall_success = Module has been successfully uninstalled.
+alert_cfg_saved_success = Configuration parameters have been successfully saved.

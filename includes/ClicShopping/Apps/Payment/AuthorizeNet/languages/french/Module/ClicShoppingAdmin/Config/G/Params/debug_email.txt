@@ -1,0 +1,4 @@
+cfg_authorizenet_status_debug_title = Debugage via Adresse e-mail
+cfg_authorizenet_status_debug_description = Tous les paamètres d'invalidation d'une transaction vous seront envoyés
+cfg_authorizenet_status_debug_true = True
+cfg_authorizenet_status_debug_false = False

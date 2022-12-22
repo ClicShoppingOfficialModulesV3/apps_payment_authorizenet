@@ -1,0 +1,2 @@
+cfg_authorizenet_proxy_title = Proxy Server
+cfg_authorizenet_proxy_description = Send API requests through this proxy server. (host:port, eg: 123.45.67.89:8080 or proxy.example.com:8080)

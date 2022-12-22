@@ -1,0 +1,4 @@
+cfg_authorizenet_review_order_status_id_title = Statut de commande commentaire
+cfg_authorizenet_review_order_status_id_desc = Veuillez sélectionner le statut par défaut
+
+

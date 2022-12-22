@@ -1,0 +1,2 @@
+cfg_authorizenet_transaction_key_title = Transaction key
+cfg_authorizenet_transaction_key_desc = Transaction key used for encrypting data
